@@ -13,9 +13,9 @@
     "url": "https://github.com/formidablelabs/victory.git"
   },
   "homepage": "https://formidable.com/open-source/victory",
-  "main": "lib/index.js",
-  "module": "es/index.js",
-  "jsnext:main": "es/index.js",
+  "main": "tmp-lib/index.js",
+  "module": "tmp-es/index.js",
+  "jsnext:main": "tmp-es/index.js",
   "author": "Formidable",
   "license": "MIT",
   "dependencies": {
